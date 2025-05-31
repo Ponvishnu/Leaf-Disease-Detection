@@ -1,2 +1,12 @@
-# Leaf-Disease-Detection
-A deep learning app to detect plant leaf diseases using image classification with TensorFlow, OpenCV, and scikit-learn. Classifies leaves as healthy or diseased (e.g., rust, powdery mildew). Includes a simple Tkinter GUI for image upload and real-time prediction.
+# ?? Leaf Disease Detection AI
+
+A deep learning-based system to detect plant leaf diseases using OpenCV, TensorFlow, and scikit-learn.
+
+## Features
+- Classifies healthy vs diseased leaves
+- Uses CNNs for image classification
+- Tkinter GUI to test predictions
+
+## Installation
+```bash
+pip install -r requirements.txt
