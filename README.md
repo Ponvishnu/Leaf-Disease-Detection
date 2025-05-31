@@ -1,4 +1,4 @@
-# ?? Leaf Disease Detection AI
+# 🎄Leaf Disease Detection AI
 
 A deep learning-based system to detect plant leaf diseases using OpenCV, TensorFlow, and scikit-learn.
 
